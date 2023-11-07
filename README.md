@@ -3,7 +3,7 @@
 
 歡迎來到屎蛋徵才版
 
-請按 [這裡]() 來進入徵才區
+請按 [這裡](https://github.com/StanleyShen88/HighTech-Jobs/issues) 來進入徵才區
 
 並且加上以下資料以完整徵才訊息喔:
 
@@ -17,7 +17,7 @@
 
 ### 徵才者
 
-歡迎各方獵頭 / HR 至 [這裡]() 刊登新的徵才訊息！  
+歡迎各方獵頭 / HR 至 [這裡](https://github.com/StanleyShen88/HighTech-Jobs/issues) 刊登新的徵才訊息！  
 希望在順利徵得人選後回來將訊息close掉。
 
 
@@ -26,7 +26,7 @@
 
 ### 求職者
 
-歡迎進入 [這裡]() 找尋你心儀的工作機會!   
+歡迎進入 [這裡](https://github.com/StanleyShen88/HighTech-Jobs/issues) 找尋你心儀的工作機會!   
 因為網站也是屎蛋三月底才自己摸索搞出來的(我不會寫程式QQ)  
 職缺會陸續上新，見諒喔~~  
 
