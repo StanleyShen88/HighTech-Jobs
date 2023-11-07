@@ -1,7 +1,7 @@
 # Stan's HighTech-Jobs board
 ====
 
-歡迎來到屎蛋徵才版
+歡迎來到屎蛋硬體徵才版
 
 請按 [這裡](https://github.com/StanleyShen88/HighTech-Jobs/issues) 來進入徵才區
 
@@ -26,8 +26,7 @@
 
 ### 求職者
 
-歡迎進入 [這裡](https://github.com/StanleyShen88/HighTech-Jobs/issues) 找尋你心儀的工作機會!   
-因為網站也是屎蛋三月底才自己摸索搞出來的(我不會寫程式QQ)  
+歡迎進入 [這裡](https://github.com/StanleyShen88/HighTech-Jobs/issues) 找尋你心儀的工作機會!    
 職缺會陸續上新，見諒喔~~  
 
 - 請善用 Labels 功能，選取你想要的關鍵字 Label 搜尋喔  
